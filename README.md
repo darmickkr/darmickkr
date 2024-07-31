@@ -4,10 +4,13 @@ Welcome to my GitHub profile! I'm Darmick K R, a passionate IT professional with
 
 ## Skills & Expertise
 
- Programming Languages: Python, C, Java
- Operating Systems: macOS, Linux
- Tools & Technologies: VSCode, PyCharm, Docker, Burp Suite, Wireshark
- Soft Skills: Content Writing, Sales & Marketing,SEO, Social Media Marketing
+ #Programming Languages: Python, C, Java
+ 
+ #Operating Systems: macOS, Linux
+ 
+ #Tools & Technologies: VSCode, PyCharm, Docker, Burp Suite, Wireshark
+ 
+ #Soft Skills: Content Writing, Sales & Marketing,SEO, Social Media Marketing
 
 ## Projects
 
