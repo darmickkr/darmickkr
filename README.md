@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Darmick K R, a passionate IT professional with
  
  Tools & Technologies: VSCode, PyCharm, Docker, Burp Suite, Wireshark
  
- Soft Skills: Content Writing, Sales & Marketing,SEO, Social Media Marketing
+ Non technical skills: Content Writing, Sales & Marketing,SEO, Social Media Marketing
 
 ## Projects
 
