@@ -12,16 +12,6 @@ Welcome to my GitHub profile! I'm Darmick K R, a passionate IT professional with
  
  Non technical skills: Content Writing, Sales & Marketing,SEO, Social Media Marketing
 
-## Projects
-
-### Personal Voice Assistant
-A Pythonbased voice assistant that performs various tasks like searching Wikipedia, opening websites, and more.
-
-### CCTV Analysis
-A project focused on analyzing CCTV footage for security purposes using computer vision techniques.
-
-### Cybersecurity Website
-A dedicated website providing resources and insights into cybersecurity best practices and trends.
 
 ## Work Experience
 
